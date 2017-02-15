@@ -1,0 +1,22 @@
+{
+  "name": "twitjs",
+  "version": "0.0.0",
+  "description": "Twitter client library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmosgenius/twitjs.git"
+  },
+  "keywords": [
+    "Twitter"
+  ],
+  "author": "Sharat M R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cosmosgenius/twitjs/issues"
+  },
+  "homepage": "https://github.com/cosmosgenius/twitjs#readme"
+}
